@@ -1,0 +1,16 @@
+* {
+    font-size: large;
+}
+
+#content {
+    width:500px;
+    height:100px;
+}
+
+.idLabel {
+    color: olive;
+}
+
+.submitButton{
+    margin-left: 500px;
+}
